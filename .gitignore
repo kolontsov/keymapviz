@@ -6,4 +6,4 @@ keymapviz.egg-info/
 test/qmk_firmware
 test/*.json
 test/*.c
-
+build/
